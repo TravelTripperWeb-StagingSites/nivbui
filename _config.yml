@@ -1,4 +1,8 @@
 
+gems:
+- jekyll-sitemap
+
+
 hotel_id: '105507'
 
 default_lang: 'en'
